@@ -1,4 +1,4 @@
-# Applied Statistics and Probabilities using SciPy in Python 📊
+# Applied Statistics and Probabilities Course using SciPy in Python 📊
 
 Welcome to the **Applied Statistics and Probabilities** repository! This project serves as a practical guide to understanding and applying statistical concepts and probability distributions using Python, specifically leveraging the power of the `SciPy`, `NumPy`, `Pandas`, and `Matplotlib`/`Seaborn` libraries.
 
@@ -38,13 +38,13 @@ pip install numpy pandas scipy matplotlib seaborn jupyter
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/marius2347/Applied-Statistics-and-Probabilities-using-SciPy-in-Python.git
+git clone https://github.com/marius2347/Applied-Statistics-and-Probabilities-Course-using-SciPy-in-Python.git
 ```
 
 Navigate to the project directory:
 
 ```bash
-cd Applied-Statistics-and-Probabilities-using-SciPy-in-Python
+cd Applied-Statistics-and-Probabilities-Course-using-SciPy-in-Python
 ```
 
 Start Jupyter Notebook:
